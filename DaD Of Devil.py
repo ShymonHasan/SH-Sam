@@ -56,7 +56,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;92mShymon Hasan
 \033[1;96mInstagram \033[1;93m: \033[1;94mFlow 👑RaFiN Chowdhury💫
 \033[1;96mFacebook \033[1;93m: \033[1;92m I.FueK.YoUr.MiNd.BnXD
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Shymon-Hasan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ShymonHasan
 \033[1;91m======================================="""
 
 def tik():
@@ -80,7 +80,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mShymon Hasan 
 \033[1;96mInstagram \033[1;93m: \033[1;93mFlow 👑RaFiN Chowdhury💫
 \033[1;96mFacebook \033[1;93m: \033[1;92m I.FueK.YoUr.MiNd.BnXD
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Shymon-Hasan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ShymonHasan
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
